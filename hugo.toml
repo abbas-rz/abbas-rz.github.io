@@ -1,0 +1,72 @@
+baseURL = 'https://abbas-rz.github.io'
+languageCode = 'en-us'
+title = 'Ablog - a blog.'
+theme = 'ananke'
+
+
+[pagination]
+pagerSize = 20
+
+[services]
+[services.disqus]
+shortname = "abbasraza"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Abbas Raza"
+  info = "Tech and Music Enthusiast"
+  description = "Abbas' personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/avatar.jpg"
+  #gravatar = "mail.abbas.raza@gmail.com"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2024
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/abbas-rz/"
+[[params.social]]
+  name = "Bluesky"
+  icon = "fa-brands fa-bluesky fa-2x"
+  weight = 3
+  url = "https://bsky.app/profile/4bbxs.bsky.social"
+[[params.social]]
+  name = "Instagram"
+  icon = "fa-brands fa-instagram fa-2x"
+  weight = 3
+  url = "https://www.instagram.com/4bbvs/"
+[[params.social]]
+  name = "discord"
+  icon = "fa-brands fa-discord fa-2x"
+  weight = 3
+  url = "https://github.com/abbas-rz/"
+
+# Menu links
+[[menu.main]]
+  name = "Blog"
+  weight = 1
+  url  = "posts/"
