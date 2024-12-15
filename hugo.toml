@@ -4,12 +4,13 @@ title = 'Ablog - a blog.'
 theme = 'ananke'
 
 
+
 [pagination]
 pagerSize = 20
 
 [services]
-[services.disqus]
-shortname = "abbasraza"
+  [services.disqus]
+    shortname = 'disqus_JPHlxdvxd4'
 
 [markup.highlight]
 style = "github-dark"
