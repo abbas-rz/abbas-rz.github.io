@@ -29,8 +29,13 @@ https://www.youtube.com/watch?v=6hFuOWJ3BKw
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6hFuOWJ3BKw?si=8aL2Cud914G6tG8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </li>
-<li>Made a spotify plugin I have been wanting for a while (using spicetify) (available on my github)</li>
+- Made a spotify plugin I have been wanting for a while (using spicetify) (available on my github)
+I got some traction on it! 
+![image.png](https://i.postimg.cc/bJ8JGQX2/image.png)](https://postimg.cc/Z97Z2v5T)
+
+
 <li>I emailed a professor to ask for AI research opportunities (I spoke to him at a summer school event, He was charmed by my knowledge, seems to be a great mentor, now lets see if I get an email back!)</li>
+
 
 
 
