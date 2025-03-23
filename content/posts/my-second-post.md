@@ -15,8 +15,6 @@ series = []
 
 ok so images now
 
+![test image][Pasted image 20250323151156.png]
 
-![[Pasted image 20250323150632.png]]
-
-https://imgur.com/yOxAhfF
 
