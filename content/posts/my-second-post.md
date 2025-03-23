@@ -14,8 +14,4 @@ series = []
 # This is a lorem ipsum test lol
 
 ok so images now
-
-	
-![test image](Pasted image 20250323151156.png)
-
-![[Pasted image 20250323152034.png]]
+![test image](https://i.postimg.cc/gJ6T9SKF/image.png)
