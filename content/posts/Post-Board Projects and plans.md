@@ -18,23 +18,23 @@ I am a CBSE student in India and for the uninitiated, the 10th grade boards are 
 I recently had a moment of clarity where I realised that all of the projects I have worked on, are being lost to time as well as the different certificates, and experiences among other things. The idea is that this website is the perfect way to catalogue all of that information. (Mainly to help me get into a good university)
 
 ## Recent Developments
-<li>My friends and business partners recently bought a penthouse and now I have access to a dedicated office space, which allows me to edit for my clients in a much more formal manner. </li>
+- My friends and business partners recently bought a penthouse and now I have access to a dedicated office space, which allows me to edit for my clients in a much more formal manner.
 
-<li>last week, I worked on a small ATV, (modular so that we can add functionality as we see fit)
+- last week, I worked on a small ATV, (modular so that we can add functionality as we see fit)
 [![image.png](https://i.postimg.cc/HkXgy1vK/image.png)](https://postimg.cc/QF8P2w3k)
-also worked on fixing this drone (that some students failed to get working) (had to do basically all from scratch)
+- also worked on fixing this drone (that some students failed to get working) (had to do basically all from scratch)
 
 [![image.png](https://i.postimg.cc/wMpWZnQt/image.png)](https://postimg.cc/BLmc1Yys)
 https://www.youtube.com/watch?v=6hFuOWJ3BKw
 
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/6hFuOWJ3BKw?si=8aL2Cud914G6tG8E" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</li>
+
 - Made a spotify plugin I have been wanting for a while (using spicetify) (available on my github)
 I got some traction on it! 
 ![image.png](https://i.postimg.cc/bJ8JGQX2/image.png)](https://postimg.cc/Z97Z2v5T)
 
 
-<li>I emailed a professor to ask for AI research opportunities (I spoke to him at a summer school event, He was charmed by my knowledge, seems to be a great mentor, now lets see if I get an email back!)</li>
+- I emailed a professor to ask for AI research opportunities (I spoke to him at a summer school event, He was charmed by my knowledge, seems to be a great mentor, now lets see if I get an email back!)
 
 
 
