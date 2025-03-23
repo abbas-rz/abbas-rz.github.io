@@ -1,0 +1,9 @@
+{
+  "blog_tag": "blog",
+  "exclude_dir": "",
+  "blog_dir": "",
+  "static_dir": "",
+  "site_dir": "",
+  "keep_list": "",
+  "export_blog_tag": true
+}

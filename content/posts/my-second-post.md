@@ -15,4 +15,6 @@ series = []
 
 ok so images now
 
-![test image][/Pasted image 20250323151156.png]
+	![test image](Pasted image 20250323151156.png)
+
+![[Pasted image 20250323152034.png]]
