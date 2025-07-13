@@ -1,0 +1,21 @@
+backend:
+  name: github
+  repo: abbas-rz/abbas-rz.github.io  # e.g. 4bbvs/4bbvs.github.io
+  branch: update_rebrand  # or "master" if that's your branch
+
+media_folder: "static/images/uploads"
+public_folder: "/images/uploads"
+
+collections:
+  - name: "posts"
+    label: "Blog"
+    folder: "content/posts"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Date", name: "date", widget: "datetime" }
+      - { label: "Body", name: "body", widget: "markdown" }
+oauth:
+  client_id: Ov23liXcrP440ZNmmv4c
+  scopes: repo
