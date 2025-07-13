@@ -1,4 +1,3 @@
-# 4bbvs Blog
+Hey there!
+This is [my blog](https://abbas.is-a.dev)'s Repo.
 
-Welcome to my blog, where I document my journey of building, innovating, and pushing boundaries.\
-and yes, Ablog is Ablog (pun intended)
