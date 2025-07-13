@@ -17,6 +17,4 @@ collections:
       - { label: "Date", name: "date", widget: "datetime" }
       - { label: "Body", name: "body", widget: "markdown" }
 
-oauth:
-  client_id: Ov23liXcrP440ZNmmv4c
-  scopes: repo
+
