@@ -1,3 +1,3 @@
-Hey There!
-This is my blog's repo. here is the [link](https://abbas.is-a.dev)
+Hey there!
+This is [my blog](https://abbas.is-a.dev)'s Repo.
 
