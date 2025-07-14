@@ -6,14 +6,28 @@
     <description>Recent content on Ablog - a blog.</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 Dec 2024 19:49:57 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jul 2025 17:01:20 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Draft this post</title>
+      <link>http://localhost:1313/posts/2025-07-13-draft-this-post/</link>
+      <pubDate>Sun, 13 Jul 2025 17:01:20 +0000</pubDate>
+      <guid>http://localhost:1313/posts/2025-07-13-draft-this-post/</guid>
+      <description>&lt;h1 id=&#34;okay-it-works-but-has-a-weird-font-issue&#34;&gt;&#xD;&#xA;  OKAY it works but has a weird font issue?&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#okay-it-works-but-has-a-weird-font-issue&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;will this work? that is the question&#xA;now I defo need a good &lt;img src=&#34;http://localhost:1313/images/avatar.jpg&#34; alt=&#34;&#34;&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Post-Board Projects and plans</title>
+      <link>http://localhost:1313/posts/post-board-projects-and-plans/</link>
+      <pubDate>Sun, 23 Mar 2025 15:45:57 +0530</pubDate>
+      <guid>http://localhost:1313/posts/post-board-projects-and-plans/</guid>
+      <description>&lt;h2 id=&#34;why-the-hiatus&#34;&gt;&#xD;&#xA;  Why the Hiatus?&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#why-the-hiatus&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h2&gt;&#xD;&#xA;&lt;p&gt;I have not updated this blog I made for a while and the reason for that was boards.&#xA;I am a CBSE student in India and for the uninitiated, the 10th grade boards are hyped a lot.&lt;/p&gt;&#xA;&lt;p&gt;I recently had a moment of clarity where I realised that all of the projects I have worked on, are being lost to time as well as the different certificates, and experiences among other things. The idea is that this website is the perfect way to catalogue all of that information. (Mainly to help me get into a good university)&lt;/p&gt;</description>
+    </item>
     <item>
       <title>lorem test 2</title>
       <link>http://localhost:1313/posts/my-second-post/</link>
       <pubDate>Sun, 15 Dec 2024 19:49:57 +0530</pubDate>
       <guid>http://localhost:1313/posts/my-second-post/</guid>
-      <description>&lt;p&gt;this is the second test.&lt;/p&gt;&#xA;&lt;h1 id=&#34;here-i-made-a-change-&#34;&gt;&#xD;&#xA;  here i made a change! 😱&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#here-i-made-a-change-&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;</description>
+      <description>&lt;h1 id=&#34;this-is-a-lorem-ipsum-test-lol&#34;&gt;&#xD;&#xA;  This is a lorem ipsum test lol&#xD;&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#this-is-a-lorem-ipsum-test-lol&#34;&gt;&#xD;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xD;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xD;&#xA;  &lt;/a&gt;&#xD;&#xA;&lt;/h1&gt;&#xD;&#xA;&lt;p&gt;ok so images now&#xA;&lt;img src=&#34;https://i.postimg.cc/gJ6T9SKF/image.png&#34; alt=&#34;l&amp;quot;&amp;gt;Hacked!&amp;ldquo;1&#xA;&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>First Post</title>
