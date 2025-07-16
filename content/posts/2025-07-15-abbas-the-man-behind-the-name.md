@@ -42,6 +42,7 @@ Hey, I'm Abbas — a high schooler building weirdly cool things at the intersect
 - 🎬 Commercial Video Editor – Worked with 1M+ sub channels & gaming servers
 - 🔊 Released original music on [SoundCloud](https://soundcloud.com/4bbxs), self-written, produced & mastered
 - 🧠 Collaborated on 5+ open source projects in AI, frontend, tooling, and automation
+- 🗣️ Debate Veteran, competed at all levels, upto IIT Delhi MUN, including several wins.
 
 ---
 
