@@ -18,7 +18,7 @@ series: {}
 
 Say goodbye to tangled attendance sheets and clunky tools—Stutra is the classroom app that lets you log, manage, and monitor every student's status in real time. Designed for teachers, Stutra’s interface is clean, cloud-powered, and mobile-ready. Mark attendance, note activities, jot down private remarks, or instantly request a students presence from your phone or laptop.
 
-**Try it now:** [https://stutra.vercel.app/](https://stutra.vercel.app/)
+~~**Try it now:**~~ no longer hosted
 
 ---
 
@@ -35,4 +35,4 @@ Say goodbye to tangled attendance sheets and clunky tools—Stutra is the classr
 
 Stutra takes the stress out of classroom management. Whether you have 12 students or 300, this app helps you teach smarter—not harder. Less time on admin, more time connecting with your class.
 
-*Ready to ditch the paperwork? Try Stutra today: [https://stutra.vercel.app/](https://stutra.vercel.app/)*
+
