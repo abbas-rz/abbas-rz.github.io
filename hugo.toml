@@ -66,3 +66,7 @@ style = "github-dark"
   name = "Blog"
   weight = 1
   url  = "posts/"
+[sitemap]
+  filename = "sitemap.xml"
+  changefreq = "weekly"
+  priority = 0.5

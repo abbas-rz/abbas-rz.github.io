@@ -46,9 +46,21 @@
               "icon": "lucide-book-up",
               "title": "Release Notes 1.8.9"
             }
+          },
+          {
+            "id": "556be24b26c282d4",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -167,13 +179,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "my-second-post.md"
+                "file": "my-second-post.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
               "title": "Outline of my-second-post"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -191,7 +207,7 @@
       "hugo-publish:hugo sync": false
     }
   },
-  "active": "9b6db09526c66b87",
+  "active": "556be24b26c282d4",
   "lastOpenFiles": [
     "my-second-post.md",
     "Post-Board Projects and plans.md",
