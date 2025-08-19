@@ -60,6 +60,11 @@ style = "github-dark"
   icon = "fa-brands fa-discord fa-2x"
   weight = 3
   url = "https://discord.com/users/4bbxs"
+[[params.social]]
+  name = "Linkedin"
+  icon = "fa-brands fa-linkedin fa-2x"
+  weight = 3
+  url = "https://discord.com/users/4bbxs"
 
 # Menu links
 [[menu.main]]
