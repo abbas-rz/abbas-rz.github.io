@@ -64,7 +64,12 @@ style = "github-dark"
   name = "Linkedin"
   icon = "fa-brands fa-linkedin fa-2x"
   weight = 3
-  url = "https://discord.com/users/4bbxs"
+  url = "linkedin.com/in/abbas-raza-7b8516218"
+[[params.social]]
+  name = "Email"
+  icon = "fa fa-envelope fa-2x"
+  weight = 3
+  url = "mailto:Reach@abbas.is-a.dev?body=referred%20to%20by%20the%20website"
 
 # Menu links
 [[menu.main]]
